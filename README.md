@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HBTghost&color=blueviolet" alt="HBTghost" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HBTghost&color=blueviolet" alt="HBTghost" /><br>
+<a href="https://linkedin.com/in/ngo-thai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ngo-thai-linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hacbangtam-twitter" height="30" width="30" /></a>
+<a href="https://facebook.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hacbangtam-facebook" height="30" width="30" /></a>
+</p>
 
 - 🌱 I’m currently learning **Full Stack Developement (ReactJS, NodeJS, MongoDB, Docker)**
 
@@ -42,6 +47,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **C/C++, JavaScript, Java, Python...**
 
 - 📫 How to reach me **hacbangtam@gmail.com**
+
+- ⚡ Fun fact: I'm a developer but I really passionate about badminton 🏸🏸
 <hr>
 <br>
 <p><em>NOTICE: It doesn't indicate my skill level, it's things I've learned and used in my projects</em></p>
@@ -49,13 +56,3 @@ Here are some ideas to get you started:
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBTghost&layout=compact&hide=c%23,c%2B%2B&theme=radical" alt="HBTghost" /></div>
 <div><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=HBTghost&count_private=true&show_icons=true&theme=radical&layout=compact" alt="HBTghost" /></div>
-
-<br>
-<br>
-<p align="center">
-
-<a href="https://linkedin.com/in/ngo-thai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nguyen-quoc-thai-pa-nqt" height="30" width="30" /></a>
-<a href="https://twitter.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="panqtquocthai" height="30" width="30" /></a>
-<a href="https://facebook.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="quocthai.user" height="30" width="30" /></a>
-
-</p>
