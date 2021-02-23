@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Thái</h1>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
 <p align="center">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> &nbsp;&nbsp;
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&nbsp;&nbsp;
@@ -24,6 +22,9 @@
 <a href="https://linkedin.com/in/ngo-thai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ngo-thai-linkedin" height="30" width="30" /></a>
 <a href="https://twitter.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hacbangtam-twitter" height="30" width="30" /></a>
 <a href="https://facebook.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hacbangtam-facebook" height="30" width="30" /></a>
+  <hr/>
+<h3> 👨🏻‍💻 About Me </h3>
+
 </p>
 
 - 🌱 I’m currently learning **Full Stack Developement (ReactJS, NodeJS, MongoDB, Docker)**
@@ -38,8 +39,6 @@
 
 - ⚡ Fun fact: I'm a developer but I really passionate about badminton 🏸🏸
 <hr>
-<br>
-
 <details>
   <summary>🎉 Github Stats</summary>
 
