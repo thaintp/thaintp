@@ -1,20 +1,8 @@
-<!--
-**HBTghost/HBTghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Thái</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Ngô Thanh Phương Thái</h1>
-<h3 align="center">A passionate Web developer from Vietnam</h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
 <p align="center">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> &nbsp;&nbsp;
@@ -44,15 +32,18 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on [https://ohfix.netlify.app/](https://ohfix.netlify.app/)
 
-- 💬 Ask me about **C/C++, JavaScript, Java, Python...**
+- 💬 Ask me about **ReactJS, TypeScript, JavaScript, C++, Python...**
 
 - 📫 How to reach me **hacbangtam@gmail.com**
 
 - ⚡ Fun fact: I'm a developer but I really passionate about badminton 🏸🏸
 <hr>
 <br>
-<p><em>NOTICE: It doesn't indicate my skill level, it's things I've learned and used in my projects</em></p>
-<br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBTghost&layout=compact&hide=c%23,c%2B%2B&theme=radical" alt="HBTghost" /></div>
-<div><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=HBTghost&count_private=true&show_icons=true&theme=radical&layout=compact" alt="HBTghost" /></div>
+<details>
+  <summary>🎉 Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HBTghost&count_private=true&show_icons=true&hide_border=true" />
+  <br />
+
+</details>
