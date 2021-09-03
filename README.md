@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HBTghost&color=blueviolet" alt="HBTghost" /><br>
+<img src="https://komarev.com/ghpvc/?username=thaintp&color=blueviolet" alt="thaintp" /><br>
 <a href="https://linkedin.com/in/ngo-thai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ngo-thai-linkedin" height="30" width="30" /></a>
 <a href="https://twitter.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hacbangtam-twitter" height="30" width="30" /></a>
 <a href="https://facebook.com/hacbangtam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hacbangtam-facebook" height="30" width="30" /></a>
@@ -29,20 +29,20 @@
 
 - 🌱 I’m currently learning **Full Stack Developement (ReactJS, NodeJS, MongoDB, Docker)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HBTghost?tab=repositories](https://github.com/HBTghost?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/thaintp?tab=repositories](https://github.com/thaintp?tab=repositories)
 
 - 📝 I regulary write articles on [https://ohfix.netlify.app/](https://ohfix.netlify.app/)
 
 - 💬 Ask me about **NextJS, ReactJS, VueJS, TypeScript, JavaScript, C++, Python...**
 
-- 📫 How to reach me **hacbangtam@gmail.com**
+- 📫 How to reach me **ngothanhphuongthai@gmail.com**
 
 - ⚡ Fun fact: I'm a developer but I really passionate about badminton 🏸🏸
 <hr>
 <details>
   <summary>🎉 Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thaintp&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thaintp&count_private=true&show_icons=true&hide_border=true" />
   <br />
 
 </details>
