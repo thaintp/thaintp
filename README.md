@@ -33,7 +33,7 @@
 
 - 📝 I regulary write articles on [https://ohfix.netlify.app/](https://ohfix.netlify.app/)
 
-- 💬 Ask me about **ReactJS, TypeScript, JavaScript, C++, Python...**
+- 💬 Ask me about **NextJS, ReactJS, VueJS, TypeScript, JavaScript, C++, Python...**
 
 - 📫 How to reach me **hacbangtam@gmail.com**
 
