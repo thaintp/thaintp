@@ -42,7 +42,7 @@
 <details>
   <summary>🎉 Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HBTghost&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thaintp&count_private=true&show_icons=true&hide_border=true" />
   <br />
 
 </details>
