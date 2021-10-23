@@ -27,13 +27,13 @@
 
 </p>
 
-- 🌱 I’m currently learning **Full Stack Developement (ReactJS, NodeJS, MongoDB, Docker)**
+- 🌱 I’m currently learning **Full Stack Developement (VueJS, NodeJS, MongoDB, Docker)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thaintp?tab=repositories](https://github.com/thaintp?tab=repositories)
 
 - 📝 I regulary write articles on [https://ohfix.netlify.app/](https://ohfix.netlify.app/)
 
-- 💬 Ask me about **NextJS, ReactJS, VueJS, TypeScript, JavaScript, C++, Python...**
+- 💬 Ask me about **ReactJS, VueJS, ExpressJS, TypeScript, JavaScript, Docker...**
 
 - 📫 How to reach me **ngothanhphuongthai@gmail.com**
 
